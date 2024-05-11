@@ -1,0 +1,17 @@
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Application.deps.json
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Application.dll
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Application.pdb
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Domain.dll
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Persistence.dll
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Domain.pdb
+E:\dotnet_webapplication\Reactivities\Application\bin\Debug\net8.0\Persistence.pdb
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.dll
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\Application.pdb
+E:\dotnet_webapplication\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll

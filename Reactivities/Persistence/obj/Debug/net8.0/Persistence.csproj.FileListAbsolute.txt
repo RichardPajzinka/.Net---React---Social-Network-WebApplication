@@ -1,0 +1,15 @@
+E:\dotnet_webapplication\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+E:\dotnet_webapplication\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+E:\dotnet_webapplication\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+E:\dotnet_webapplication\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+E:\dotnet_webapplication\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+E:\dotnet_webapplication\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
