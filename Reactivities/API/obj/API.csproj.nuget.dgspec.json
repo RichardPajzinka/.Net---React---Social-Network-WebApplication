@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet_webapplication\\Reactivities\\api\\API.csproj": {}
+    "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\dotnet_webapplication\\Reactivities\\api\\API.csproj": {
+    "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet_webapplication\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\dotnet_webapplication\\Reactivities\\api\\API.csproj",
+        "projectPath": "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\riki0\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet_webapplication\\Reactivities\\api\\obj\\",
+        "outputPath": "E:\\dotnet_webapplication\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riki0\\AppData\\Roaming\\NuGet\\NuGet.Config"
