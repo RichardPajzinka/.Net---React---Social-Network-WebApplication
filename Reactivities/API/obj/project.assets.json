@@ -3009,11 +3009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\dotnet_webapplication\\Reactivities\\API\\API.csproj",
+      "projectPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\riki0\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet_webapplication\\Reactivities\\API\\obj\\",
+      "outputPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\riki0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3028,8 +3028,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\dotnet_webapplication\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "E:\\dotnet_webapplication\\Reactivities\\Application\\Application.csproj"
+            "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

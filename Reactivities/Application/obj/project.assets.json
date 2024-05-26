@@ -1226,11 +1226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet_webapplication\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\dotnet_webapplication\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\riki0\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet_webapplication\\Reactivities\\Application\\obj\\",
+      "outputPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\riki0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1245,11 +1245,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\dotnet_webapplication\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\dotnet_webapplication\\Reactivities\\Domain\\Domain.csproj"
+            "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Domain\\Domain.csproj"
             },
-            "E:\\dotnet_webapplication\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\dotnet_webapplication\\Reactivities\\Persistence\\Persistence.csproj"
+            "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

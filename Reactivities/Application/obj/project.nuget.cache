@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvXZ9ddPovB4+Y2DLJoYqYaxemRHCjSP4YiaGmvzZR2dU30NtSDRxXgtreU4NBWe4O4cMzN8niKhA4YjvyvQLA==",
+  "dgSpecHash": "VylnKw+PdE70xYM04oGmXqs8AW/F1dOylfeyje9Vcap1MibPXP77o/HU9V+4BzrjWZ6PLDGuoClyGwFFM/S9Ng==",
   "success": true,
-  "projectFilePath": "E:\\dotnet_webapplication\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

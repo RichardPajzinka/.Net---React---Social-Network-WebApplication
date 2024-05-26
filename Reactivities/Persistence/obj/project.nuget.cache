@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uWc5/vxHNEg+dR/czZO+q5yCIlAy16WmJ4jN9J327+rZtkzOY7AjjG8yBBupNM+DYdIDLVBomIQqCd2TlxhuRw==",
+  "dgSpecHash": "YrNhe0Iz8iZ2l8axZ+rD/HvB52hWJjRffafl5xYdB7zAFSdeed1crrRVVr5v6Rms9JJ7h2u79AEVb/K5vwH2cw==",
   "success": true,
-  "projectFilePath": "E:\\dotnet_webapplication\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

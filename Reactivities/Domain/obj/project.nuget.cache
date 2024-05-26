@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x596nSnzuPyAiJD8aRu45L6m3ughUZPX9GcsQquZI1saKExMMTdsM0PhD+vRu3m3Z3/MMF5A1R2I8tw/pu1YYw==",
+  "dgSpecHash": "Z2/stN5xb98bIuNLQZSUGcSElO9rj5IBOJT1X9Gu7AuUlETwoYPcV0p7aUd/tzYQyzMJM0N1QfUM2v+xO6k05A==",
   "success": true,
-  "projectFilePath": "E:\\dotnet_webapplication\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
