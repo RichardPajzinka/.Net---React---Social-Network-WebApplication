@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VylnKw+PdE70xYM04oGmXqs8AW/F1dOylfeyje9Vcap1MibPXP77o/HU9V+4BzrjWZ6PLDGuoClyGwFFM/S9Ng==",
+  "dgSpecHash": "xcmg2itCcmT14+o4moldEDHIeIWpxPX7ySOT1m+xECH2028C41+4REQJQcRoRuui7MpgvtMJLTvwXxpJXyiiSQ==",
   "success": true,
   "projectFilePath": "E:\\dotnet_webapplication\\.Net---React---Social-Network-WebApplication\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\riki0\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\riki0\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\riki0\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

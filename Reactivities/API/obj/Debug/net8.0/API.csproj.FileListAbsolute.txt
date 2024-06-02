@@ -265,3 +265,5 @@ E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactiviti
 E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactivities\API\obj\Debug\net8.0\API.pdb
 E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactivities\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactivities\API\obj\Debug\net8.0\ref\API.dll
+E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactivities\API\bin\Debug\net8.0\MediatR.dll
+E:\dotnet_webapplication\.Net---React---Social-Network-WebApplication\Reactivities\API\bin\Debug\net8.0\MediatR.Contracts.dll
